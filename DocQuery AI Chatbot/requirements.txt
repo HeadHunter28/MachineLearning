@@ -1,0 +1,9 @@
+openai
+langchain
+pinecone-client
+python-dotenv
+tiktoken
+streamlit
+docx2txt
+pypdf
+chromadb
